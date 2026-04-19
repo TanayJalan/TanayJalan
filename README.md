@@ -78,4 +78,4 @@
 
 <img src="https://raw.githubusercontent.com/TanayJalan/TanayJalan/output/snake.svg" alt="Snake animation" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanayjalan&theme=dracula" alt="tanayjalan" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=tanayjalan&theme=dracula" alt="tanayjalan" /></p>
