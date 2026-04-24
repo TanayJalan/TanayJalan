@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanayjalan&label=Profile%20views&color=0e75b6&style=flat" alt="tanayjalan" /> </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanayjalan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanayjalan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanayjalan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanayjalan&layout=compact&theme=dracula&cache_seconds=0" height="150" alt="languages graph" />
 </div>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/l54b4QxkuRUAAAAC/luffy-luffy-one-piece.gif" />
@@ -78,4 +78,4 @@
 
 <img src="https://raw.githubusercontent.com/TanayJalan/TanayJalan/output/snake.svg" alt="Snake animation" />
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=tanayjalan&theme=dracula" alt="tanayjalan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanayjalan&theme=dracula&hide_border=false&cache_seconds=0" alt="tanayjalan" /></p>
