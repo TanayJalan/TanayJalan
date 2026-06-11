@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanay Jalan</h1>
-<h3 align="center">Code. Data. Design. Repeat.</h3>
+<h3 align="center">Passionate about Machine Learning, LLMs, Computer Vision, and AI-powered products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanayjalan&label=Profile%20views&color=0e75b6&style=flat" alt="tanayjalan" /> </p>
 
