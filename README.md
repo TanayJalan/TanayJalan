@@ -10,10 +10,15 @@
 
 <img align="right" height="150" src="https://media1.tenor.com/m/l54b4QxkuRUAAAAC/luffy-luffy-one-piece.gif" />
 
-- 🔭 I'm currently working on [college ERP](https://github.com/TanayJalan/college-erp)
-- 🌱 I'm currently learning **Machine Learning**
-- 👯 I'm looking to collaborate on **Python projects**
-- 🤝 I'm looking for help with **DSA problems**
+- 🔭 I'm currently working on **GenAI, RAG, and Agentic AI projects**
+- 🌱 I'm currently learning **LangGraph, MLOps, AWS, and Advanced LLM Engineering**
+- 👯 I'm looking to collaborate on **Open-source AI/ML projects, GenAI applications, and hackathon projects**
+- 🤝 I'm looking for help with **[Guidance In] 
+- MLOps and model deployment at scale
+- LangGraph and multi-agent AI systems
+- AWS/GCP cloud deployment for AI applications
+- Open-source contributions in AI ecosystems
+- Production-grade RAG architectures**
 - 👨‍💻 All of my projects are available at [github.com/TanayJalan](https://github.com/TanayJalan?tab=repositories)
 - 📫 How to reach me **tanayjalan2345@gmail.com**
 
