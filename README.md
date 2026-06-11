@@ -14,11 +14,11 @@
 - 🌱 I'm currently learning **LangGraph, MLOps, AWS, and Advanced LLM Engineering**
 - 👯 I'm looking to collaborate on **Open-source AI/ML projects, GenAI applications, and hackathon projects**
 - 🤝 I'm looking for help with **[Guidance In] 
-- MLOps and model deployment at scale
-- LangGraph and multi-agent AI systems
-- AWS/GCP cloud deployment for AI applications
-- Open-source contributions in AI ecosystems
-- Production-grade RAG architectures**
+                                - MLOps and model deployment at scale
+                                - LangGraph and multi-agent AI systems
+                                - AWS/GCP cloud deployment for AI applications
+                                - Open-source contributions in AI ecosystems
+                                - Production-grade RAG architectures**
 - 👨‍💻 All of my projects are available at [github.com/TanayJalan](https://github.com/TanayJalan?tab=repositories)
 - 📫 How to reach me **tanayjalan2345@gmail.com**
 
