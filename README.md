@@ -16,6 +16,7 @@
 - 🤝 I'm looking for help with **[Guidance In] | Agentic AI workflows | MLOps & CI/CD for ML | Cloud deployment (AWS/GCP) | Open-source AI contributions | Scalable RAG systems**
 - 👨‍💻 All of my projects are available at [github.com/TanayJalan](https://github.com/TanayJalan?tab=repositories)
 - 📫 How to reach me **tanayjalan2345@gmail.com**
+- 💻 Full stack Developer in **praman.network**
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
