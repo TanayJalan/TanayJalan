@@ -1,83 +1,145 @@
 <h1 align="center">Hi 👋, I'm Tanay Jalan</h1>
-<h3 align="center">Passionate about Machine Learning, LLMs, Computer Vision, and AI-powered products.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanayjalan&label=Profile%20views&color=0e75b6&style=flat" alt="tanayjalan" /> </p>
+<h3 align="center">
+AI Engineer • Full Stack Developer • Open Source Contributor
+</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanayjalan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanayjalan&layout=compact&theme=dracula&cache_seconds=0" height="150" alt="languages graph" />
-</div>
+<p align="center">
+Building production-ready AI systems using LLMs, RAG, Computer Vision and scalable backend architectures.
+</p>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/l54b4QxkuRUAAAAC/luffy-luffy-one-piece.gif" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer;Full+Stack+Developer;Open+Source+Contributor;LLM+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+React+%7C+Next.js;Building+Production+Ready+AI+Applications" />
+</p>
 
-- 🔭 I'm currently working on **GenAI, RAG, and Agentic AI projects**
-- 🌱 I'm currently learning **LangGraph, MLOps, AWS, and Advanced LLM Engineering**
-- 👯 I'm looking to collaborate on **Open-source AI/ML projects, GenAI applications, and hackathon projects**
-- 🤝 I'm looking for help with **[Guidance In] | Agentic AI workflows | MLOps & CI/CD for ML | Cloud deployment (AWS/GCP) | Open-source AI contributions | Scalable RAG systems**
-- 🛠️ Open Source Contributer.
-- 👨‍💻 All of my projects are available at [github.com/TanayJalan](https://github.com/TanayJalan?tab=repositories)
-- 📫 How to reach me **tanayjalan2345@gmail.com**
-- 💻 Full stack Developer in [praman.network](https://www.praman.network/)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" height="30" alt="numpy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="30" alt="pytorch" />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" alt="seaborn" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="figma" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" alt="firebase" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
-</div>
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="mailto:tanayjalan2345@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/its-tanay-jalan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="https://www.instagram.com/itanayjalan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
-</div>
+- 💼 Full Stack Developer Intern at **[Praman Network](https://www.praman.network/)**
+- 🤖 Building production-ready AI systems using **LLMs, RAG, Computer Vision & Agentic AI**
+- 🌱 Currently learning **LangGraph, MLOps, AWS, Kubernetes & Advanced LLM Engineering**
+- 🤝 Open to collaborating on **AI/ML, Open Source, Full Stack & GenAI Projects**
+- 🚀 Passionate about building products that solve real-world problems
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/TanayJalan/TanayJalan/output/snake.svg" alt="Snake animation" />
+## 🌐 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanayjalan&theme=dracula&hide_border=false&cache_seconds=0" alt="tanayjalan" /></p>
+<p align="left">
+
+<a href="mailto:tanayjalan2345@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/its-tanay-jalan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TanayJalan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+---
+
+## AI / Machine Learning
+
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0E9F6E?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-8A2BE2?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0096D6?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=TanayJalan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TanayJalan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com/?user=TanayJalan&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/TanayJalan/TanayJalan/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TanayJalan&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories!
+</p>
